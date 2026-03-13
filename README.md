@@ -1,5 +1,5 @@
 # 💫 About Me:
-ASSOCIATE DEVOPS ENGINEER in Miraki Techology 
+Associate Devops Engineer at Miraki Techology 
 Full Stack Developer<br>
 
 
