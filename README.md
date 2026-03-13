@@ -1,6 +1,6 @@
 # 💫 About Me:
-Associate Devops Engineer at Miraki Techology 
-Full Stack Developer<br>
+I am a **Full Stack and DevOps enthusiast** who enjoys building modern web applications and understanding how software moves from development to deployment. I work with technologies like **React, Node.js, and cloud platforms**, and I enjoy exploring tools related to **CI/CD, automation, and cloud infrastructure**. I like learning through **hands-on projects and experimentation**, which helps me understand real-world system architecture. My goal is to grow into an engineer who can **design, build, and deploy scalable systems efficiently**. 🚀
+<br>
 
 
 ## 🌐 Socials:
