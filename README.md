@@ -85,9 +85,25 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Profile Summary
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUNKUSHANMUKH&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUNKUSHANMUKH&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUNKUSHANMUKH&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKUSHANMUKH&layout=compact&theme=tokyonight" />
+</p>
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SUNKUSHANMUKH/SUNKUSHANMUKH/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUNKUSHANMUKH&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
