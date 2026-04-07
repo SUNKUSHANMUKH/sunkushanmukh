@@ -109,8 +109,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunkushanmukh&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunkushanmukh&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SUNKUSHANMUKH&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUNKUSHANMUKH&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
