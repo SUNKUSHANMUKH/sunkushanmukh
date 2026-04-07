@@ -10,14 +10,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on devops **Miraki technology**
-
-- 🌱 I’m currently learning devops **CICD Terraform jenkins Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://sunku-giridhar-shanmukh.vercel.app/](https://sunku-giridhar-shanmukh.vercel.app/)
+- 
+- 👨‍💻 Visit my Portfolio [https://sunku-giridhar-shanmukh.vercel.app/](sunku-giridhar-shanmukh-portfolio.vercel.app)
 
 - 📫 How to reach me **sunkushanmukh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vHRe2vm2tRhXCmAERNU95kIxx-Lus_yi/view?usp=drive_link](https://drive.google.com/file/d/1vHRe2vm2tRhXCmAERNU95kIxx-Lus_yi/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1vHRe2vm2tRhXCmAERNU95kIxx-Lus_yi/view?usp=drive_link)
 
 
 # 💻 Tech Stack:
