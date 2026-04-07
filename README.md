@@ -72,22 +72,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUNKUSHANMUKH&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNKUSHANMUKH&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNKUSHANMUKH&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SUNKUSHANMUKH&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
