@@ -96,9 +96,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKUSHANMUKH&layout=compact&theme=tokyonight" />
 </p>
 
+
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SUNKUSHANMUKH/SUNKUSHANMUKH/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sunkushanmukh/sunkushanmukh/output/github-contribution-grid-snake.svg" />
 </p>
 
 
