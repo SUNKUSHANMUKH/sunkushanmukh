@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ Animated Typing Header
+## ⚡ I am 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C7B7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+AWS+Enthusiast;Terraform+%7C+Docker+%7C+Kubernetes;Full+Stack+Developer;Always+Learning+New+Tech" />
 </p>
